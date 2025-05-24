@@ -1,3 +1,4 @@
+---
 services:
   redis:
     container_name: redis
@@ -48,3 +49,4 @@ volumes:
   #  caddy-data:
   #  caddy-config:
   valkey-data: null
+...
